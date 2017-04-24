@@ -17,10 +17,10 @@ if(actualSleepHours === idealSleepHours){
   console.log('You\'re on track! You got ' + (actualSleepHours) + 'just like you wanted!');
 }
 else if (actualSleepHours > idealSleepHours){
-  console.log('You should be feeling nice and rested! You got ' + (actualSleepHours - idealSleepHours) + 'hours sleep');
+  console.log('You should be feeling nice and rested! You got ' + (actualSleepHours - idealSleepHours) + 'hours more sleep than you wanted!');
 }
 else if(actualSleepHours < idealSleepHours){
-  console.log('You\'d better turn in early tonight! You got ' + (idealSleepHours - actualSleepHours));
+  console.log('You\'d better turn in early this week! You got ' + (idealSleepHours - actualSleepHours) + ' less hours total this week than you wanted.');
 }
 }
 
