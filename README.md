@@ -1,2 +1,2 @@
 # sleepDebtCalculator
-A sleep Debt Calculator designed for Code Academy JS course.
+A sleep Debt Calculator, practicing functions & loops is JS.
